@@ -1,6 +1,7 @@
 ![MaterHead](https://unite.un.org/sites/unite.un.org/files/styles/panopoly_image_original/public/pages/analytics-banner_1.png?itok=ZMQjool9)
 - 📄 Click here to view the [Analysis Tableau Dashboard](https://public.tableau.com/views/LinkedInJobAnalyticsProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 - 📄 Click here to view  [Short Insight Story](https://public.tableau.com/app/profile/amith.b.j/viz/LinkedinAnalysis_16752397345890/Story?publish=yes)
+- 📄 Click here to view  [PowerPoint Presentation](https://docs.google.com/presentation/d/1g3BruAZBCo9HR9JHQGQRmuD_rcJltxtu/edit?usp=share_link&ouid=105927338128348567070&rtpof=true&sd=true)
 
 
 <h3 align="left">Languages and Tools Used:</h3>
